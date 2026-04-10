@@ -1,4 +1,4 @@
-#Sales Forecasting
+## Sales Forecasting
 
 Predict weekly retail sales using time-series feature engineering and multiple regression models, based on a Walmart-style dataset.
 

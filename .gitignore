@@ -1,0 +1,31 @@
+# Ignore virtual environment
+
+venv/
+
+# Ignore output folder
+
+outputs/
+
+# Ignore dataset files
+
+*.csv
+
+# Ignore data generation script
+
+dataGen.py
+
+# Python cache files
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Environment variables
+
+.env

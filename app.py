@@ -7,7 +7,7 @@ from sklearn.preprocessing import StandardScaler
 
 st.set_page_config(page_title="Sales Forecasting App", layout="wide")
 
-st.title("📊 Walmart Sales Forecasting")
+st.title("📊 Sales Forecasting")
 
 # ─────────────────────────────
 # Upload Data

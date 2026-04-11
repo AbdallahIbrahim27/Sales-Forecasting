@@ -111,4 +111,4 @@ df = df.sort_values("Date").set_index("Date")
 
 ## ⚙️ Python Version
 
-Tested on **Python 3.9+**. Recommended: **Python 3.10 or 3.11**.
+Recommended: **Python 3.10**.
